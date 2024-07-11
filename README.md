@@ -1,3 +1,3 @@
 # Harvard CS50AI
 
-## To train CS50AI course
+## To train CS50AI course.
